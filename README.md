@@ -1,22 +1,48 @@
-# Over mij – Viktor
+# Viktor – FiveM Developer Portfolio
 
-## Wie ik ben
-Hallo! Ik ben Viktor, een beginnende developer op FiveM. Ik ben 15 jaar oud, leergierig en enthousiast over het maken van scripts voor roleplay servers zoals BelgiëPD.
+Hallo! Ik ben **Viktor**, een beginnende FiveM developer uit België.  
+Ik maak scripts, test ze zelf en probeer elke dag beter te worden.  
 
-## Wat ik kan
-- Basis Lua scripting voor FiveM
-- Client ↔ Server communicatie via events
-- Commands maken (bijvoorbeeld `/dienst` en `/uitdienst`)
-- Job-checks implementeren (zoals politie / ambulance)
-- Meldingen en notificaties in-game tonen
-- Kleine NUI popups bouwen en testen
-- Zelfstandig scripts testen en verbeteren
+Dit is mijn portfolio van scripts die ik heb gemaakt en getest:
 
-## Wat ik leer
-- Complexere RP-logica bouwen  
-- Optimalisatie van scripts  
-- Samenwerken met een team van developers  
-- Portfolio opbouwen en GitHub gebruiken
+---
 
-## Mijn doel
-Ik wil ervaring opbouwen als FiveM developer, mijn kennis uitbreiden en uiteindelijk bijdragen aan een serieuze RP-server zoals BelgiëPD. Mijn scripts en projecten zijn te vinden in mijn portfolio en GitHub.
+## 🛠️ Mijn scripts
+
+### 1. Politie In-/Uit Dienst
+- Command `/indienst` en `/uitdienst`
+- Zet politieleden in of uit dienst
+- Inclusief client/server scripts en fxmanifest.lua
+- [[Repo link]()](https://github.com/Viktorius10455/Spelers)
+
+### 2. Online Spelers
+- Command `/spelers`
+- Toont alle online spelers in de chat
+- Leerzaam voor client ↔ server communicatie
+- https://github.com/Viktorius10455/Spelers
+
+### 3. Dev Vest / Andere kleine scripts
+- Commands om developer items te testen (bijv. dev-vest)
+- Simpele notificaties en toggles
+
+  
+---
+
+## 💡 Waarom ik dit doe
+- Ik wil ervaring opbouwen als FiveM developer
+- Ik wil leren werken met commands, events en resources
+- Mijn doel is om ooit bij BelgiëPD als vrijwillige developer te werken
+- Ik test, breek en verbeter scripts om te leren
+
+---
+
+## 📌 Hoe ik werk
+- Zelf scripts maken, aanpassen en verbeteren
+- Alles testen in-game op mijn dev server
+- Kleine, overzichtelijke scripts schrijven
+- Structuur en READMEs bijhouden voor GitHub
+
+---
+
+Bedankt dat je kijkt naar mijn portfolio!  
+Ik blijf leren en verbeteren 💪
