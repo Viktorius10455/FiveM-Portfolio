@@ -1,0 +1,6 @@
+RegisterNetEvent("dev:notify")
+AddEventHandler("dev:notify", function(msg)
+    SetNotificationTextEntry("STRING")
+    AddTextComponentString(msg)
+    DrawNotification(false, false)
+end)
