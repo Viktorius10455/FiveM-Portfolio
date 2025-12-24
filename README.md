@@ -30,7 +30,7 @@ Dit is mijn portfolio van scripts die ik heb gemaakt en getest:
 
 ## 💡 Waarom ik dit doe
 - Ik wil ervaring opbouwen als FiveM developer
-- Ik wil leren werken met commands, events en resources
+- Ik wil leren werken met commands, Qbox
 - Mijn doel is om ooit bij BelgiëPD als vrijwillige developer te werken
 - Ik test, breek en verbeter scripts om te leren
 
