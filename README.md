@@ -1,85 +1,76 @@
 🌟 Viktor – FiveM Developer
-# Over mij
 
-Hoi! Ik ben Viktor, 15 jaar oud en een beginnende FiveM developer.
-Ik vind het super leuk om scripts te maken, dingen uit te proberen en nieuwe skills te leren.
-Ik help ook graag andere spelers en staffleden op servers waar ik speel.
+## 👋 Over mij
+Mijn naam is Viktor (15) en ik ben een gemotiveerde FiveM developer met een sterke focus op **functionele scripts, duidelijke structuur en realistische RP-systemen**.  
+Ik werk graag aan systemen die niet alleen werken, maar ook **logisch, stabiel en gebruiksvriendelijk** zijn voor spelers en staff.
 
-# Skills
+Ik leer snel, test mijn scripts grondig en sta open voor feedback om mijn code en werkwijze continu te verbeteren.
 
-Lua scripting (client.lua & server.lua)
+---
 
-Commands maken zoals /spelers, /indienst & /devinfo
+## 🧠 Technische vaardigheden
+- Lua scripting (client & server)
+- Structuur opzetten voor FiveM resources
+- Werken met client/server events
+- Commands & permissions
+- Standalone scripts ontwikkelen en aanpassen
+- NUI / UI systemen (HTML, CSS, JS basis)
+- Job- & loadout-systemen
+- Vehicle spawning & reskins
+- Bugfixing, testen & optimaliseren
 
-Client & server events gebruiken en begrijpen
+---
 
-QBOX scripts maken en aanpassen
+## 🛠️ Geselecteerde projecten
 
-UI/NUI menu’s bouwen: Car Tablet, Staff Tablet, SRT Menu
+### 🚓 Job In/Uit Dienst Systeem
+- `/indienst` & `/uitdienst`
+- Ondersteuning voor meerdere jobs  
+  (politie, ambulance, brandweer)
+- Clean HUD feedback bij job-wissel
 
-Vehicles spawnen & reskinnen
+### 📋 Spelersoverzicht (`/spelers`)
+- Overzicht van alle online spelers
+- Duidelijke en leesbare chat-output
 
-Code aanpassen en experimenteren om te leren
+### 🦺 Developer Items & EUP
+- Custom developer hesjes
+- Integratie met EUP / LSPD items
 
-Bugfixing en testen
+### 🚗 Car Tablet (NUI)
+- Auto’s & helikopters spawnen via tablet
+- Correct sluiten via knop & ESC
+- Gebruiksvriendelijke interface
 
-# Projecten
+### 🧑‍💻 Staff Tablet
+- Staff chat & reportsysteem
+- Reports bekijken en afhandelen
+- Speleracties: freeze, teleport, warn
 
-Police In/Uit Dienst Script
+### 🎯 SRT Training Menu
+- Spawnen en verwijderen van trainings-targets
+- Gericht op tactische oefenscenario’s
+- Simpel en efficiënt menu
 
-/indienst & /uitdienst
+---
 
-Kies politie / ambulance / brandweer
+## 🌐 GitHub
+Alle projecten zijn terug te vinden op mijn GitHub:  
+👉 https://github.com/Viktorius10455
 
-Skin verandert automatisch
+- Eigen scripts
+- Aangepaste & verbeterde scripts
+- Duidelijke documentatie per project
 
-/spelers Command
+---
 
-Zie alle online spelers in de chat
+## 🚀 Ontwikkeldoelen
+- Complexere en nettere NUI interfaces bouwen
+- Verdiepen in QBOX & server-side systemen
+- Custom voertuigen en EUP verder uitwerken
+- Performance & codekwaliteit verbeteren
+- Meewerken aan serieuze RP-servers
 
-Dev Vest / Developer Items
-
-Custom dev hesjes met EUP / LSPD dev items
-
-Car Tablet
-
-Spawn auto’s & helikopters
-
-Sluitknop + ESC werkt
-
-Staff Tablet
-
-Categories: Staff Chat / Reports / Spelers
-
-Reports bekijken & afhandelen
-
-Spelers freeze / tp / warn
-
-SRT Training Menu
-
-Spawnt targets om op te oefenen
-
-Easy menu: spawn, delete targets
-
-# Github
-
-Mijn scripts staan hier:
-https://github.com/Viktorius10455
-
-Alles wat ik zelf heb geschreven
-
-Scripts die ik heb aangepast en getest
-
-Met duidelijke readme.md bestanden
-
-# Wat ik wil leren
-
-Complexere UI maken met NUI
-
-Nieuwe QBOX systemen leren
-
-Auto’s reskinnen en custom voertuigen toevoegen
-
-Scripts optimaliseren en bugfixen
-
-Nieuwe systemen bouwen voor staff & spelers
+---
+  
+💡 Altijd gemotiveerd om bij te leren
