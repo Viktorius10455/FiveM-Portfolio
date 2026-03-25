@@ -1,76 +1,52 @@
-🌟 Viktor – FiveM Developer
+# 🌟 Viktor – Modern FiveM Developer
+> Gespecialiseerd in Ox-Logic, Discord Integration & Vehicle Reskinning
 
 ## 👋 Over mij
-Mijn naam is Viktor (15) en ik ben een gemotiveerde FiveM developer met een sterke focus op **functionele scripts, duidelijke structuur en realistische RP-systemen**.  
-Ik werk graag aan systemen die niet alleen werken, maar ook **logisch, stabiel en gebruiksvriendelijk** zijn voor spelers en staff.
+Mijn naam is Viktor (15). Ik ben een gedreven developer die de overstap heeft gemaakt van traditionele scripting naar de huidige high-end standaarden. Ik focus me op systemen die niet alleen werken, maar ook bijdragen aan de server-performance en een naadloze spelerservaring.
 
-Ik leer snel, test mijn scripts grondig en sta open voor feedback om mijn code en werkwijze continu te verbeteren.
-
----
+Mijn huidige motto: "Geen onnodige commands, maar intuïtieve interactie via UI en Ox-Target."
 
 ## 🧠 Technische vaardigheden
-- Lua scripting (client & server)
-- Structuur opzetten voor FiveM resources
-- Werken met client/server events
-- Commands & permissions
-- Standalone scripts ontwikkelen en aanpassen
-- NUI / UI systemen (HTML, CSS, JS basis)
-- Job- & loadout-systemen
-- Vehicle spawning & reskins
-- Bugfixing, testen & optimaliseren
+* Frameworks: Ervaring met Qbox & QB-Core (Bridge-systemen).
 
----
+* Interactie-Design: Volledige overstap naar ox_target, ox_lib en ox_menu.
 
-## 🛠️ Geselecteerde projecten
+* Logging & Security: Implementatie van uitgebreide Discord Webhooks voor staff-audits en actielogs.
 
-### 🚓 Job In/Uit Dienst Systeem
-- `/indienst` & `/uitdienst`
-- Ondersteuning voor meerdere jobs  
-  (politie, ambulance, brandweer)
-- Clean HUD feedback bij job-wissel
+* Visuals: Professioneel reskinnen van voertuigen (high-quality textures & liveries).
 
-### 📋 Spelersoverzicht (`/spelers`)
-- Overzicht van alle online spelers
-- Duidelijke en leesbare chat-output
+* Frontend: Ontwikkeling van NUI-systemen met HTML5, CSS3 en JavaScript (clean & responsive).
 
-### 🦺 Developer Items & EUP
-- Custom developer hesjes
-- Integratie met EUP / LSPD items
+* Database: Werken met oxmysql voor snelle en stabiele data-opslag.
 
-### 🚗 Car Tablet (NUI)
-- Auto’s & helikopters spawnen via tablet
-- Correct sluiten via knop & ESC
-- Gebruiksvriendelijke interface
+## 🛠️ Geselecteerde Projecten (Updated)
+### 🛡️ Advanced Staff Check System (Ox-Target & Webhooks)
+* Moderne Aanpak: Geen commands meer. Staff kan via een target-menu direct spelers controleren.
 
-### 🧑‍💻 Staff Tablet
-- Staff chat & reportsysteem
-- Reports bekijken en afhandelen
-- Speleracties: freeze, teleport, warn
+* Features: Automatische screenshots van inventory, real-time database-checks (geld/voertuigen) en directe rapportage naar Discord via beveiligde Webhooks.
 
-### 🎯 SRT Training Menu
-- Spawnen en verwijderen van trainings-targets
-- Gericht op tactische oefenscenario’s
-- Simpel en efficiënt menu
+### 🚗 Car & Staff Tablet (NUI-based)
+* Interface: Volledig op maat gemaakte tablet voor voertuigbeheer en staff-taken.
 
----
+* Features: Voertuigen spawnen met metadata, report-systeem afhandelen en speleracties (freeze/warn) met één klik. Correcte sluiting via ESC.
+
+### 🎨 Vehicle Livery & EUP Design
+* Visuals: Custom textures en liveries, specifiek gericht op Belgische hulpdiensten.
+
+* Optimalisatie: Geoptimaliseerde .ytd bestanden voor minimale texture-loss en maximale FPS-behoud.
 
 ## 🌐 GitHub
-Alle projecten zijn terug te vinden op mijn GitHub:  
-👉 https://github.com/Viktorius10455
+Mijn nieuwste projecten zijn hier te vinden: 👉 https://github.com/Viktorius10455
 
-- Eigen scripts
-- Aangepaste & verbeterde scripts
-- Duidelijke documentatie per project
+* Clean Code: Focus op modulariteit en leesbaarheid.
 
----
+* Duidelijke Documentatie: Elk project bevat een heldere uitleg.
 
 ## 🚀 Ontwikkeldoelen
-- Complexere en nettere NUI interfaces bouwen
-- Verdiepen in QBOX & server-side systemen
-- Custom voertuigen en EUP verder uitwerken
-- Performance & codekwaliteit verbeteren
-- Meewerken aan serieuze RP-servers
+* Complexere NUI's: Interfaces bouwen die de FiveM-ervaring naar een hoger niveau tillen.
 
----
-  
-💡 Altijd gemotiveerd om bij te leren
+* Security: Verdiepen in server-side exploit prevention en state-bag manipulatie.
+
+* Performance: Scripts optimaliseren naar een constante 0.01ms resmon-standaard.
+
+💡 "Ik bouw niet alleen wat gevraagd wordt, ik bouw wat de server nodig heeft om stabiel te groeien."
